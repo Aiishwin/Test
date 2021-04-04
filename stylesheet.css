@@ -129,9 +129,31 @@ input, select {
     font-family: Copperplate, Papyrus, fantasy;
 }
 
-.icon {
-    border-top-left-radius: 50% 50%;
-    border-top-right-radius: 50% 50%;
-    border-bottom-right-radius: 50% 50%;
-    border-bottom-left-radius: 50% 50%;
+.body-div {
+    margin: auto;
+    height: 500px;
+    width: 900px;
+    background-color: lightgray;
+    border-radius: 25px;
+}
+
+.body-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+}
+
+.body-header {
+    text-align: center;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 50px;
+}
+
+.body-para {
+    text-align: center;
+    font-family: Copperplate, Papyrus, fantasy;
+    margin-left: 100px;   
+    margin-right: 100px;
 }
