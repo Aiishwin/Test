@@ -120,12 +120,12 @@ input, select {
 .top-header {
     text-align: center;
     font-size: 60px;
-    color: #5D8AA8;
+    color: black;
     font-family: Copperplate, Papyrus, fantasy;
 }
 
 .banner-message {
-    color: #5D8AA8;
+    color: black;
     font-family: Copperplate, Papyrus, fantasy;
 }
 
@@ -156,4 +156,11 @@ input, select {
     font-family: Copperplate, Papyrus, fantasy;
     margin-left: 100px;   
     margin-right: 100px;
+}
+
+.channel-tv-link {
+    text-decoration: none;
+    text-align: center; 
+    font-size: 150px; 
+    margin-top: 10px
 }
